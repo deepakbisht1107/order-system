@@ -1,0 +1,8 @@
+SUCCESS - Test processOrders_internationalKeyReturnsInternationalOrders finished Successfully.
+SUCCESS - Test processOrders_domesticKeyReturnsDomesticOrders finished Successfully.
+SUCCESS - Test processOrders_returns2ElementMap finished Successfully.
+SUCCESS - Test retrieveOrders_retrunList finished Successfully.
+
+=============================================================================
+Tests run: 4 - Failures: 0 - Errors: 0 - Skipped: 0 - Time elapsed: 3.989 sec
+=============================================================================
